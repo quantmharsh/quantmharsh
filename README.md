@@ -3,7 +3,6 @@
 - frontend developer
 - problem solver 
 - 👀 I’m interested in problem solving and developing frontend web applications
-- 
 - 💞️ I’m looking to collaborate on any web3 project 
 - 📫 reach me through my linkedin profile
 
